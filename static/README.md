@@ -12,7 +12,7 @@ Importantly, this handbook will **not** include information that you'll find els
 2. Technical documentation
 3. Up-to-date marketing materials
 
-We frequently edit this document. If you'd like to suggest changes, please simply let us know. You can contact ned.oleary@ssoready.com or [create a pull request](https://github.com/Ned-oleary/ssoReady-handbook). 
+We frequently edit this document. If you'd like to suggest changes, please simply let us know. You can contact ned.oleary@ssoready.com or [create a pull request](https://github.com/ssoready/SSOReady-public-handbook). 
 
 # About us
 
