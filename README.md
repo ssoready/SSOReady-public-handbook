@@ -1,5 +1,5 @@
 
-Hosted at [handbook.ssoready.com](handbook.ssoready.com)
+Hosted at [handbook.ssoready.com](https://handbook.ssoready.com)
 
 
 
