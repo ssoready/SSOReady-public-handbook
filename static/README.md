@@ -112,25 +112,23 @@ How will we make money? We'll simply offer more features and more products over 
 
 # Open source at SSOReady
 
-Open source just makes sense for us. We'll remain an open source company.
+Open source makes sense for us. We'll remain an open source company.
 
-We knew from the start that developers would require both peace of mind and convenience. Open source simply gives developers the certainty they need without spending time on the phone with us. 
-
-Moreover, we put our software on an MIT license. You may do whatever you'd like with it!. If you end up modifying our code a bunch, consider telling us about your modifications. Users' suggestions turn into our product roadmap. 
+We build products for software developers. Through our products, we offer developers peace of mind and convenience. To do so, we need to earn developers' trust and make their lives easier. Open source entitles  developers to dig as deeply as they'd like into our product -- without requiring multiple check-in calls and emails with sales engineers. Taking this principle further, we put our product on an MIT license; you may do whatever you'd like with it. (However, if you do something interesting with our code, please let us know; suggestions from users shape our product roadmap!).
 
 Other open source companies have likely rug-pulled you. To the extent it assuages any concern, please understand that our internal selfish MBA consciences consider open source a significant **competitive advantage** for our business for a few reasons:
 1. Open source forces us to build better products.
 2. Open source lowers our customer acquisition cost.
-3. Open source eases customer concerns regarding business continuity. 
+3. Open source eases customer concerns regarding business continuity.
 4. Open source helps us differentiate from admittedly abundant competition. 
 5. Open source helps us recruit great talent.
 
-It's also just ... more fun to build an open source company. 
+It's also just ... more fun to build an open source company. At the risk of indulging an annoying corporate cliche, we would really rather offer a useful tool to a community of users than aggressively sell contracts to strangers.
 
 
 # Careers at SSOReady
 
-Our business requires some measure of technical aptitude from every member of its team. some measure *be technical* to some extent. Not every candidate needs a proven history of excellence in software engineering (although it helps), but every successful candidate must combine outstanding problem solving skills with resourcefulness and an intrinsic motivation for building things. Sufficiently talented individuals can learn nearly any skill.
+Our business requires some measure of technical aptitude from every member of its team. Not every candidate needs a proven history of excellence in software engineering (although it helps), but every successful candidate must combine outstanding problem solving skills with resourcefulness and an intrinsic motivation for building things. Sufficiently talented individuals can learn nearly any skill.
 
 We are a small company, and we hire opportunistically. Compatability will vary depending on our budget and immediate needs.
 
@@ -150,10 +148,15 @@ Our business will continue to require infusions of outside capital for some time
 
 Fortunately for us and our early customers, our existing investors such as Y Combinator have provided our business with significant financial resources. SSOReady therefore will not seek additional financing in the near future, instead focusing resources on product development and customer satisfaction.
 
+## For potential investors
+
 Potential investors should understand our expectations. We don't consider fundraising an end unto itself and would generally prefer to spend time operating our business. For this reason, we tend to decline investment meetings unless we have already initiated a capital raise. Moreover, potential investors should understand that we prize patience, ambition, and partnership above valuation; after all, when we raise capital, we invite additional owners to share in our business.
 
 Having noted the above, kindly direct investment inquiries to [ned.oleary@ssoready.com](mailto:ned.oleary@ssoready.com).
 
+## For existing investors
 
+We share a monthly investor update via email. It arrives in your inbox on the first Friday of each month, typically some time between 12pm and 5pm San Francisco time. This update adheres to a consistent format that highlights our operating metrics first and then discusses several qualitative updates regarding material changes to our business.
 
+If you have been expecting an investor update and have not yet heard from us, please get in touch. In all likelihood, this means we need to debug email deliverability issues. 
 
