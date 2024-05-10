@@ -86,10 +86,24 @@ We do hold an expansive view of *product.* For us, *product* describes all inter
 
 With that in mind, we don't want anyone at our company to specialize too much. We all need to understand the technical details of our product, and we also have to understand our customers deeply. 
 
+# Commercial operations at SSOReady
 
-# Go-to-market at SSOReady
+## Go-to-market
 
-## Our funnel
+"Go-to-market" as a classification spontaneously arose from primordial alphabet soup to describe sales and marketing activities. 
+
+In our business, we use "go-to-market" to describe any activities or functions that serve at least one of the following ends:
+* Helping users/buyers find our product
+* Educating users/buyers about our product and its value
+* Helping users/buyers evangelize our product to others
+* Helping users/buyers implement our product
+* Establishing sound terms to govern our customer relationships
+* Collecting payment from customers
+* Forging partnerships with other software vendors
+
+## Our go-to-market funnel
+
+Go-to-market at SSOReady looks mildly unusual compared to many other SaaS companies.
 
 At least as it's imagined internally, a typical business software funnel starts with *leads*. Demand generation and outbound sales bear responsibility for generating viable leads, specific contacts that have evidenced purchase intent. The sales organization converts leads downfunnel into qualified opportunities, of which some fraction convert into paying customers. 
 
@@ -110,6 +124,26 @@ Our users -- developers -- shouldn't need to fight internally to set up our prod
 
 How will we make money? We'll simply offer more features and more products over time. Certain features and certain products will cost money. As a general principle, tools that help an individual developer get started will remain free; products that benefit multiple, diverse stakeholders might warrant a paid plan. 
 
+## Things we measure
+
+As a commercial organization, we must measure a few important quantities regularly. Companies often call these "KPIs," but that feels a little stodgy. We still track relatively few quantities. 
+
+* Product traction 
+    * Gross new users added (trailing 30 days)
+    * User activation rate (trailing 30 days)
+    * Monthly active users (trailing 30 days)
+    * Active user retention (cohorted)
+
+* Commercial traction
+    * Annual recurring revenue (point in time)
+    * Count of paying customers (point in time)
+
+* Commercial efficiency
+    * Customer acquisition payback periods (quarterly)
+    * Cash flow (burn) from operations (monthly)
+
+For now, we do not track a few common SaaS metrics (e.g. dollar-based retention) and track certain other metrics (e.g. gross margin) solely for bookkeeping purposes. We simply do not consider these very useful for understanding our business as it exists today.
+
 # Open source at SSOReady
 
 Open source makes sense for us. We'll remain an open source company.
@@ -124,6 +158,10 @@ Other open source companies have likely rug-pulled you. To the extent it assuage
 5. Open source helps us recruit great talent.
 
 It's also just ... more fun to build an open source company. At the risk of indulging an annoying corporate cliche, we would really rather offer a useful tool to a community of users than aggressively sell contracts to strangers.
+
+# Customer feedback
+
+Feedback from prospective users and active users alike matters quite a lot to us. Please get in touch at [founders@ssoready.com](mailto:founders@ssoready.com) if you would like to share any thoughts. 
 
 
 # Careers at SSOReady
