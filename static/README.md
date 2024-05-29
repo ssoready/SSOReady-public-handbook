@@ -2,7 +2,7 @@
 
 Inspired by [Gitlab](https://handbook.gitlab.com/), we try hard to maximize the transparency of our business. To that end, we hope that prospective customers, candidates for employment, and potential investors alike find this handbook useful. In time, it will communicate nearly everything we're able to share with a public audience.
 
-For example, this handbook can tell you:
+This handbook might tell you:
 1. Who we are
 2. How our business works
 3. How we evaluate new product development opportunities
@@ -24,16 +24,15 @@ I've wandered in and out of a few careers. Formerly at Gem and BCG, I also did a
 [Ulysse Carion](https://www.linkedin.com/in/ucarion/)
 I'm a software engineer that unironically loves enterprise software and integrations. Formerly of Segment and Gem, I built Segment's permissions and identity resolution system. I was Editor of [IETF RFC 8927](https://www.rfc-editor.org/rfc/rfc8927.html).
 
-We're based in San Francisco. 
+We're based in San Francisco, where we have an office in FiDi.
 
 ## Our aspirations
 
 We maintain a few simple and related aspirations for SSOReady:
 
-1. **Build extraordinary products:** we don't like to build *good* products. We want people to *love* our products, to *demand* that their friends try our products. To get there, we need to obsess over the craftsmanship of our core products, yes, but also fuss over ancillary customer experiences like onboarding, product marketing, and support.
+1. **Build extraordinary products:** we don't like to build *good* products. We want people to *love* our products, to *demand* that their friends try our products. To get there, we need to obsess over the craftsmanship of our core products, yes, but also fuss over related customer experiences like onboarding, documentation, and support.
 
-2. **Build a valuable business:** we operate a commercial enterprise with external investors to whom we owe returns on capital. We have to build a valuable business. In this context, our business's value depends solely on the present value of its cash flow. We maximize our value by growing the business quickly and efficiently. 
-
+2. **Build a valuable business:** we operate a commercial enterprise. We have investors for whom we steward capital and on whose behalf we're obliged to build a valuable business. In this context, *valuable* has a very specific meaning. Our business's *value* here amounts to nothing more and nothing less than the summed present value of its future cash flow. Our business's value basically depends on three variables: how big it is, how efficient it is, and how quickly it's growing. Given we want to build a valuable company, we have to make it big, efficient, and fast-growing.
 
 3. **Build an organization we're proud of:** we all spend a lot of time at work. Our business should treat people well and feel like a fun, engaging place to work. Anything else just isn't worth it.
 
